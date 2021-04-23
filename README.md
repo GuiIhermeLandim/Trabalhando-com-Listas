@@ -1,2 +1,2 @@
-# Exercicios.1
-Exercícios realizados, utilizando meu raciocínio lógico para suas resoluções.
+# Trabalhando com Listas
+Exercícios realizados, utilizando Listas em suas resoluções.
